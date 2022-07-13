@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[a is running]]>
+    </line>
+    <line>
+      <![CDATA[b is running]]>
+    </line>
+    <line>
+      <![CDATA[f is running]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-07-07T22:13:40 IST" name="Default suite" finished-at="2022-07-07T22:13:40 IST" duration-ms="62">
+    <groups>
+    </groups>
+    <test started-at="2022-07-07T22:13:40 IST" name="Default test" finished-at="2022-07-07T22:13:40 IST" duration-ms="62">
+      <class name="testngstudy.Newclasstestng">
+        <test-method signature="a()[pri:0, instance:testngstudy.Newclasstestng@3a44431a]" started-at="2022-07-07T22:13:40 IST" name="a" finished-at="2022-07-07T22:13:40 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[a is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- a -->
+        <test-method signature="b()[pri:0, instance:testngstudy.Newclasstestng@3a44431a]" started-at="2022-07-07T22:13:40 IST" name="b" finished-at="2022-07-07T22:13:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[b is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method signature="f()[pri:0, instance:testngstudy.Newclasstestng@3a44431a]" started-at="2022-07-07T22:13:40 IST" name="f" finished-at="2022-07-07T22:13:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[f is running]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testngstudy.Newclasstestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
