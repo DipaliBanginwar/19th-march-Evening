@@ -11,7 +11,7 @@ public class Test2 {
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com/search?q=velocity&sxsrf=ALiCzsavsswiOushU51Lb8ZsWjBJ0hA38A:1654793732501&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjwt-iE66D4AhVwTmwGHfSZCpUQ_AUoAXoECAMQAw&biw=1536&bih=746&dpr=1.25");
-
+System.out.println("this is my dipali");
 	}
 
 }
